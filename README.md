@@ -1,5 +1,6 @@
 # Correlación Vial‑Peaje: Identificando Zonas de Alto Riesgo
 
+[**➔ Ver en Google Colab**](https://colab.research.google.com/github/AndrewP05/Identificaci-n_zonas_alto_riesgo/blob/main/Cruzar.ipynb)
 
 ## Descripcion datos
 El presente analisis tiene como fuente dos bases de datos tomadas de la pagina [**Datos Abiertos Colombia**](https://https://www.datos.gov.co/) que nos ayudaran a estudiar, formular y presentar conclusiones sobre la correlacion que puede haber entre las vias nacionales y los peajes.
